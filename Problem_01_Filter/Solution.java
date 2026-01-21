@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * Problem 1: Find Even Numbers from a List
+ * Problem 1: Find Even Numbers from a List.
  * See: concept.md for detailed explanation
  */
 public class Solution {
